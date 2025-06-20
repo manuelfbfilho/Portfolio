@@ -53,6 +53,12 @@ body {
 }
 
 /* Títulos */
+.titulo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .main-title {
     font-size: 48px;
     font-family: "Merriweather", serif;
