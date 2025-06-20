@@ -1,5 +1,5 @@
-<h1 class="titulo">
-  <img src="assets/ONE-Challenge-AmigoSecreto.png" width="100" alt="Logo" />
+<h1 style="display: inline-flex; align-items: center; vertical-align: middle; font-size: 2em;">
+  <img src="assets/ONE-Challenge-AmigoSecreto.png" style="height: 2em; margin-right: 10px;" alt="Logo">
   Amigo Secreto
 </h1>
 
