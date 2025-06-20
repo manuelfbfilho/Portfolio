@@ -1,5 +1,0 @@
-Bibliotecas para PDF
-* FPDF
-* PyPDF
-* PdfPlumber
-* Entre outras
