@@ -1,4 +1,4 @@
-<h1><img src="assets/ONE-Challenge-AmigoSecreto.png" width=80 alt="Logo"> Amigo Secreto</h1>
+<h1><p align=middle><img src="assets/ONE-Challenge-AmigoSecreto.png" width=80 alt="Logo"> Amigo Secreto</p></h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=javascript&message=framework&color=blue&style=for-the-badge&logo=javascript"/>
