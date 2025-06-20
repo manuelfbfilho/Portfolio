@@ -1,4 +1,4 @@
-# Allure Store Analytics Dashboard
+<img src="ONE-Challenge-AllureStore.png" width=80 align="middle" alt="Logo"># Allure Store Analytics Dashboard
 
 Este projeto implementa um dashboard interativo e visualmente atraente para análise das vendas da Allure Store, uma rede de quatro lojas de e-commerce. O objetivo é ajudar o Sr. João a decidir qual loja vender para investir em um novo negócio.
 
