@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Setup Python Profissional no VSCode</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f4; padding: 20px; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background-color: #eee; padding: 2px 4px; border-radius: 4px; }
-    pre { background-color: #eaeaea; padding: 10px; border-radius: 4px; overflow-x: auto; }
-    ul { margin-top: 0; }
-  </style>
+<meta charset="UTF-8">
+<title>Setup Python Profissional no VSCode</title>
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f4; padding: 20px; }
+  h1, h2, h3 { color: #2c3e50; }
+  code { background-color: #eee; padding: 2px 4px; border-radius: 4px; }
+  pre { background-color: #eaeaea; padding: 10px; border-radius: 4px; overflow-x: auto; }
+  ul { margin-top: 0; }
+</style>
 </head>
 <body>
 
