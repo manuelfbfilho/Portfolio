@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+<body>
 <head>
 <meta charset="UTF-8">
 <title>Setup Python Profissional no VSCode</title>
@@ -11,7 +12,6 @@
   ul { margin-top: 0; }
 </style>
 </head>
-<body>
 
   <h1><img src="assets/Fernandes.png" width=80 align="middle" alt="Logo"> Setup Profissional de Ambiente Python no VSCode</h1>
   <p>Este guia é uma referência completa para configurar seu ambiente Python no VSCode para projetos de:</p>
