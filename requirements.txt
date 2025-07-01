@@ -33,6 +33,12 @@ httpx
 flask
 django
 
+# Computação Quântica
+qiskit
+qiskit-ibm-runtime
+ipywidgets
+jupyterlab
+
 # Outros utilitários
 python-dotenv
 pydantic
