@@ -1,0 +1,40 @@
+# para instalar usar: pip install -r requirements.txt
+# Bibliotecas principais
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+# NLP e análise de texto
+nltk
+spacy
+textblob
+
+# Visualização interativa
+plotly
+dash
+streamlit
+gradio
+
+# Interfaces gráficas
+tk
+pyqt5
+
+# Web APIs
+fastapi
+uvicorn
+requests
+httpx
+
+# Web frameworks
+flask
+django
+
+# Outros utilitários
+python-dotenv
+pydantic
+openpyxl
+xlsxwriter
