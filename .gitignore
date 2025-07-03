@@ -1,0 +1,12 @@
+# Ignora pastas
+Aulas/
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos compilados pelo Python
+*.pyc
+__pycache__/
+
+# Ignora arquivos com variáveis sensíveis
+.env
