@@ -149,6 +149,10 @@ python src/train.py --data data/dados_tratados.csv --out artifacts/
 python src/app.py --data data/dados_tratados.csv --model artifacts/model.pkl
 ```
 
+Outro Arquivo:
+```bash
+python srv/app_2.py
+```
 ---
 
 ## ✍️ Autor

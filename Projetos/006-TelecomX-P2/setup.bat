@@ -14,10 +14,10 @@ REM Instalar dependências
 pip install -r requirements.txt
 
 REM Treinar modelo e gerar artefatos
-python src\train.py --data data/dados_tratados.csv --out artifacts\
+python src\train.py --data data\dados_tratados.csv --out artifacts\
 
 REM Rodar dashboard
-python src\app.py --data data/dados_tratados.csv --model artifacts\model.pkl
+python src\app.py --data data\dados_tratados.csv --model artifacts\model.pkl
 
 pause
 
