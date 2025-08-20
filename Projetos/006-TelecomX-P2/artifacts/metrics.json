@@ -1,0 +1,14 @@
+{
+  "cv_roc_auc": {
+    "LogisticRegression": 0.844855845045681,
+    "RandomForest": 0.8231321906701293
+  },
+  "holdout_roc_auc": {
+    "LogisticRegression": 0.8430093776641092,
+    "RandomForest": 0.8253623188405798
+  },
+  "selected_base_model": "LogisticRegression",
+  "calibration_choice": "raw",
+  "selected_auc": 0.8430093776641092,
+  "selected_brier": 0.1370814924228628
+}

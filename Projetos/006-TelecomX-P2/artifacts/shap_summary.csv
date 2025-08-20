@@ -1,0 +1,44 @@
+feature,mean_abs_shap
+customer.tenure,0.14872222428188742
+account.Contract_Two year,0.08422702427439438
+account.Charges.Total,0.07051305899470477
+account.Contract_Month-to-month,0.06020463352673544
+phone.PhoneService_Yes,0.04135788284732281
+internet.InternetService_DSL,0.03805246174294341
+internet.TechSupport_Yes,0.036077971807042274
+phone.MultipleLines_No,0.034864124479827424
+internet.OnlineSecurity_Yes,0.03111957358494873
+customer.gender_Male,0.023126376195142972
+internet.OnlineBackup_Yes,0.022762938614942673
+account.PaymentMethod_Electronic check,0.022001145728835696
+account.PaymentMethod_Bank transfer (automatic),0.021293931162766067
+account.PaymentMethod_Credit card (automatic),0.02054089143553041
+account.PaperlessBilling,0.019211391795288742
+internet.StreamingTV_No,0.018524469599103137
+account.PaymentMethod_Mailed check,0.018178994337575475
+internet.InternetService_Fiber optic,0.016589734816948448
+internet.InternetService_No,0.016549944281041302
+internet.StreamingTV_No internet service,0.016549944281041302
+internet.TechSupport_No internet service,0.016549944281041302
+internet.StreamingMovies_No internet service,0.016549944281041302
+internet.DeviceProtection_No internet service,0.016549944281041302
+internet.OnlineSecurity_No internet service,0.016549944281041302
+internet.OnlineBackup_No internet service,0.016549944281041302
+customer.gender_Female,0.014886295011892963
+internet.DeviceProtection_Yes,0.01465601877788587
+internet.TechSupport_No,0.014615244881047653
+account.Contract_One year,0.01399028045937729
+internet.StreamingMovies_No,0.01289046111623854
+account.Charges.Monthly,0.012830075617890197
+Contas_Diarias,0.012830075617889973
+internet.OnlineSecurity_No,0.009656846658953938
+internet.StreamingMovies_Yes,0.008572265809756289
+customer.SeniorCitizen,0.007749568523925929
+customer.Dependents,0.007529882985190739
+internet.DeviceProtection_No,0.006806708148109069
+phone.MultipleLines_Yes,0.006493758367495091
+phone.PhoneService_No,0.0033452116402863208
+phone.MultipleLines_No phone service,0.0033452116402863208
+internet.StreamingTV_Yes,0.002938257326891897
+customer.Partner,0.002345186427726846
+internet.OnlineBackup_No,0.001300211688947896
