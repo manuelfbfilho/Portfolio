@@ -7,6 +7,7 @@ seaborn
 scikit-learn
 jupyter
 notebook
+pyarrow
 
 # NLP e análise de texto
 nltk
@@ -44,3 +45,7 @@ python-dotenv
 pydantic
 openpyxl
 xlsxwriter
+lightgbm
+xgboost
+catboost
+prophet
