@@ -93,7 +93,7 @@ if __name__ == "__main__":
     print(f"Selecionados {len(produtos_selecionados)} produtos ({rows_acumuladas} linhas)")
 
     DOCS.mkdir(exist_ok=True)
-    out_path = DOCS / "predictions_hackathon_baseline.parquet"
+    out_path = DOCS / "predictions_hackathon_model.parquet"
     pred_df_filtrado.to_parquet(out_path, index=False)
     print(f"Arquivo gerado em {out_path} com {len(pred_df_filtrado)} linhas")
 

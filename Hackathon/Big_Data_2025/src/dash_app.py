@@ -13,7 +13,7 @@ DOCS = BASE / "docs"
 
 app = Dash(__name__)
 
-PARQUET_PATH = DOCS / "predictions_hackathon_baseline.parquet"
+PARQUET_PATH = DOCS / "predictions_hackathon_model.parquet"
 try:
     df = pd.read_parquet(PARQUET_PATH)
     # garantir tipos
