@@ -59,7 +59,7 @@ Exemplo `requirements.txt`:
 ### 2. Rode o pipeline baseline:
 ```python -m src.main_pipeline```
 
-Saída esperada: docs/predictions_hackathon_baseline.parquet.
+Saída esperada: docs/predictions_hackathon_model.parquet
 
 ### 3. (Opcional) Treinar modelo LightGBM:
 ```python -m src.model_lightgbm```
@@ -86,6 +86,10 @@ source .venv/bin/activate # Linux/Mac
 ### 2. Instalar dependências
 ```bash
 pip install -r requirements.txt
+```
+Ou, se for necessário, para atualizar pacotes existentes, adicione --upgrade:
+```bash
+pip install --upgrade -r requirements.txt
 ```
 
 ### 3. Links Disponíveis
