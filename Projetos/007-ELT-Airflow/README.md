@@ -10,7 +10,7 @@
   <tr style="border:none;">
     <td align="center" width="150" style="border:none;">
       <img src="https://github.com/manuelfbfilho/Portfolio/raw/master/Projetos/006-TelecomX-P2/images/Fernandes.png" width="100"/></td>
-    <td align="center" width="700" style="border:none;"><font size=7><b>Pipeline ELT com Apache Airflow</b></font></td>
+    <td align="center" width="700" style="border:none;"><font size=20><b>Pipeline ELT com Apache Airflow</b></font></td>
     <td align="center" width="150" style="border:none;"><img src="images/Indicium_Academy.png" width="140"/></td>
   </tr>
 </table>
