@@ -6,7 +6,7 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
     volumes:
-      - ./northwind.sql:/docker-entrypoint-initdb.d/northwind.sql
+      - ../sql:/docker-entrypoint-initdb.d
     ports:
       - 5433:5432
 

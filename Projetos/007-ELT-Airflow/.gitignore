@@ -1,6 +1,44 @@
+# Python
+customers.csv
 __pycache__/
 *.pyc
-.env
-.astro/
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow
+airflow.db
+airflow-webserver.pid
 logs/
-include/*.csv
+
+# Data files
+*.csv
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
+
+# Secrets
+.env
+.env.*
+
+# Mac
+*.DS_Store
+
+# Windows
+desktop.ini

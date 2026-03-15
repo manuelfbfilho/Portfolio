@@ -2,7 +2,7 @@ import pandas as pd
 import logging
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 
-CSV_PATH = "/usr/local/airflow/include/customers_extract.csv"
+output_path = "/usr/local/airflow/include/customers.csv"
 
 
 def extract_customers():
@@ -17,6 +17,6 @@ def extract_customers():
 
     logging.info(f"Extracted {len(df)} records")
 
-    df.to_csv(CSV_PATH, index=False)
+    df.to_csv(output_path, index=False)
 
-    logging.info(f"File saved at {CSV_PATH}")
+    logging.info(f"File saved at {output_path}")
