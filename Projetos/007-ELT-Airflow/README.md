@@ -175,6 +175,7 @@ No terminal, entrar na pasta do projeto (localmente)
 ```bash
 cd 007-ELT-Airflow
 ```
+**Atenção:** Antes de executar os código abaixo abra o *Docker Desktop*. Após ele estar aberto de funcionando, retome aos passos a seguir.
 
 <hr>
 
@@ -192,7 +193,7 @@ docker compose up -d
 
 **Este comando irá criar dois bancos:**
 | Banco | Porta | Função |
-|-|-|
+|-|-|-|
 | source_db | 5433 | banco de origem |
 | target_db | 5434 | banco de destino |
 
@@ -223,11 +224,22 @@ Password: postgres
 
 Volte para a pasta principal do projeto.
 
-Execute:
+Execute, na primeira vez:
+
+```powershell
+astro dev init
+```
+Isso inicializará o projeto Airflow
+
+Depois execute:
 ```powershell
 astro dev start
 ```
+Execute, a partir da segunda vez:
 
+```powershell
+astro dev restart
+```
 Após iniciar, o Airflow estará disponível em:
 ```arduino
 http://localhost:8080
@@ -317,10 +329,8 @@ Isso confirma que o pipeline carregou corretamente os dados.
 
 # 📷 Demonstração da Execução
 
-Adicione um GIF demonstrando a execução da DAG.
-```bash
-images/pipeline_execution.gif <criar imagem ou vídeo da execução>
-```
+[![Watch the video](images/imagem_gravacao.png)](images/gravacao_execucao.mp4)
+
 
 **Exemplo:**
 ```bash
