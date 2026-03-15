@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/static/v1?label=Pandas&message=Data%20Processing&color=red&style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
-<table width="1000" cellpadding="0" cellspacing="0" style="border:none;>
-  <tr style="border:none;">
-    <td align="center" width="150" style="border:none;">
+<table width="1000" align="center" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="center" width="150">
       <img src="https://github.com/manuelfbfilho/Portfolio/raw/master/Projetos/006-TelecomX-P2/images/Fernandes.png" width="100"/></td>
-    <td align="center" width="700" style="border:none;"><font size=20><b>Pipeline ELT com Apache Airflow</b></font></td>
-    <td align="center" width="150" style="border:none;"><img src="images/Indicium_Academy.png" width="140"/></td>
+    <td align="center" width="700"><h1><b>Pipeline ELT com Apache Airflow</b></h1></td>
+    <td align="center" width="150"><img src="images/Indicium_Academy.png" width="140"/></td>
   </tr>
 </table>
 
@@ -140,24 +140,24 @@ Extract → Persist → Load → Validate
 
 Antes de executar o projeto é necessário instalar:
 
-1️⃣ **Git**
+1️⃣ **Git**<br>
 https://git-scm.com/
 
-2️⃣ **Docker Desktop**
+2️⃣ **Docker Desktop**<br>
 https://www.docker.com/products/docker-desktop/
 
 Docker será utilizado para executar os bancos PostgreSQL.
 
-3️⃣ **Python (3.10+)**
+3️⃣ **Python (3.10+)**<br>
 https://www.python.org/
 
-4️⃣ **Astronomer CLI**
+4️⃣ **Astronomer CLI**<br>
 Ferramenta utilizada para executar o Apache Airflow localmente.
 
 Documentação:
 https://docs.astronomer.io/astro/cli/install-cli
 
-5️⃣ **Cliente SQL (Opcional)**
+5️⃣ **Cliente SQL (Opcional)**<br>
 Para visualizar os dados carregados.
 
 Sugestões:
