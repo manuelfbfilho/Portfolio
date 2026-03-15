@@ -330,7 +330,7 @@ Isso confirma que o pipeline carregou corretamente os dados.
 
 # 📷 Demonstração da Execução
 
-[![Watch the video](images/imagem_gravacao.png)](images/gravacao_execucao.mp4)
+[![Watch the video](images/imagem_gravacao.png)](https://youtu.be/bYW7BHFy0BA)
 
 
 **Exemplo:**
