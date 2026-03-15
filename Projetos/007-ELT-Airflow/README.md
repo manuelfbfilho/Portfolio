@@ -31,12 +31,12 @@ A base de dados utilizada é a Northwind, uma base clássica usada para aprendiz
 
 # 🎯 Objetivo
 
-Este projeto tem como objetivo demonstrar na prática:
-  ✔ construção de pipelines ELT
-  ✔ orquestração com Apache Airflow
-  ✔ manipulação de dados com Python e Pandas
-  ✔ integração com bancos PostgreSQL
-  ✔ uso de Docker para ambientes de dados
+Este projeto tem como objetivo demonstrar na prática:<br>
+  ✔ construção de pipelines ELT<br>
+  ✔ orquestração com Apache Airflow<br>
+  ✔ manipulação de dados com Python e Pandas<br>
+  ✔ integração com bancos PostgreSQL<br>
+  ✔ uso de Docker para ambientes de dados<br>
   ✔ organização de projetos de engenharia de dados
 
 <hr>
@@ -127,7 +127,8 @@ Extract → Persist → Load → Validate
 ├── include
 │
 ├── images
-│   └── pipeline_execution.gif
+│   ├── gravacao_execucao.mp4
+│   └── imagem_gravacao.png
 │
 ├── requirements.txt
 ├── .gitignore
@@ -154,7 +155,7 @@ https://www.python.org/
 4️⃣ **Astronomer CLI**<br>
 Ferramenta utilizada para executar o Apache Airflow localmente.
 
-Documentação:
+Documentação:<br>
 https://docs.astronomer.io/astro/cli/install-cli
 
 5️⃣ **Cliente SQL (Opcional)**<br>
