@@ -54,7 +54,7 @@ A empresa enfrentava:
 
 # 🚀 Solução
 
-✔ Pipeline de dados estruturado
+✔ Pipeline de dados estruturado/n
 ✔ Análise de rentabilidade
 ✔ Segmentação de clientes
 ✔ Previsão de demanda
