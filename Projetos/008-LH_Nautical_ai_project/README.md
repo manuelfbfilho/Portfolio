@@ -148,6 +148,7 @@ Main file: dashboard/app.py
 ```
 6. Deploy 🚀
 
+Link de acesso: https://lhnautical.streamlit.app/
 ---
 # 📈 Insights
 
