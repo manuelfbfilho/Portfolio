@@ -54,12 +54,12 @@ A empresa enfrentava:
 
 # 🚀 Solução
 
-✔ Pipeline de dados estruturado/n
-✔ Análise de rentabilidade
-✔ Segmentação de clientes
-✔ Previsão de demanda
-✔ Sistema de recomendação
-✔ Dashboard interativo
+* ✔ Pipeline de dados estruturado
+* ✔ Análise de rentabilidade
+* ✔ Segmentação de clientes
+* ✔ Previsão de demanda
+* ✔ Sistema de recomendação
+* ✔ Dashboard interativo
 
 ---
 
@@ -97,16 +97,23 @@ Raw Data → ETL → Processed Data → ML Models → Dashboard
 ---
 
 # 📁 Estrutura
-
-lh_nautical/
-├── data/
+```pgsql
+lh_nautical_ai_project/
 ├── dashboard/
+|      ├── pages/
+│      └── utils/
+├── data/
+|     ├── processed/
+│     └── raw/
+├── docs/
 ├── images/
-├── utils/
-├── models/
 ├── notebooks/
+├── src/
+│     └── data_engineering/
 ├── README.md
-
+├── .gitignore
+└── requirements.txt
+```
 ---
 
 # ⚙️ Tecnologias
