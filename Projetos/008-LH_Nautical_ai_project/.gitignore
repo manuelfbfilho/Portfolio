@@ -1,0 +1,16 @@
+
+---
+
+# 🧾 📁 .gitignore
+
+```bash
+__pycache__/
+*.pyc
+.env
+.venv
+.vscode
+.idea
+.zip
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
