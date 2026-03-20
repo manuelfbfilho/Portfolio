@@ -150,9 +150,15 @@ Main file: app.py
 
 
 
-## **Link de acesso ao dashboard:**
+# 🔮 **Links de Acesso**
+### **Dashboard**
 * **Streamlit:** [Acessar o dashboard LH Nautical](https://lhnautical.streamlit.app/)
 * **Power BI:** 
+
+### **Relatório Final**
+* **Relatório Final:** [Relatório Final do Projeto](https://drive.google.com/open?id=1_5C_kFSDmZtySAvAqn9WuNaLz_FtrfR9&usp=drive_fs) 
+* **Proposta Cloud:** [Proposta Executiva - Serviços em Cloud](https://drive.google.com/open?id=1J8KUV6DAwslD56qRP-qX5UvB3i0Tu6Kx&usp=drive_fs)
+
 ---
 # 📈 Insights
 
