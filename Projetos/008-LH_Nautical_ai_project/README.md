@@ -144,11 +144,15 @@ streamlit run dashboard/app.py
 4. Conecte seu repositório
 5. Configure:
 ```
-Main file: dashboard/app.py
+Main file: app.py
 ```
 6. Deploy 🚀
 
-Link de acesso: https://lhnautical.streamlit.app/
+
+
+## **Link de acesso ao dashboard:**
+* **Streamlit:** [Acessar o dashboard LH Nautical](https://lhnautical.streamlit.app/)
+* **Power BI:** 
 ---
 # 📈 Insights
 
